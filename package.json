@@ -1,0 +1,28 @@
+{
+  "name": "downfor",
+  "version": "1.0.0",
+  "description": "downfor.js website status checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligoren/downfor-js.git"
+  },
+  "keywords": [
+    "healthcheck",
+    "monitoring",
+    "status",
+    "website monitoring"
+  ],
+  "author": "Ali GOREN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligoren/downfor-js/issues"
+  },
+  "homepage": "https://github.com/aligoren/downfor-js#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
